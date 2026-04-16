@@ -1,0 +1,14 @@
+{
+  "buttons": [
+    {
+      "label": "Panel External",
+      "description": "16-04-2026",
+      "enabled": true
+    },
+    {
+      "label": "ESP",
+      "description": "16-04-2026"",
+      "enabled": false
+    }
+  ]
+}
